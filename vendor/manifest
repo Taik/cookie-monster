@@ -1,0 +1,34 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "code.google.com/p/gopass",
+			"repository": "https://code.google.com/p/gopass",
+			"revision": "3b39664481b57ad99d34c86bd64090c28eacc7a1",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/mattn/go-sqlite3",
+			"repository": "https://github.com/mattn/go-sqlite3",
+			"revision": "467f50b0c026317ad28fc2c0a08aab6f755cfc7a",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/tmc/keyring",
+			"repository": "https://github.com/tmc/keyring",
+			"revision": "adec3bef79f7c4c2dc0637b25efe6979f52fd19d",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/crypto/pbkdf2",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "285fb2ed20d1dc450fc743a1b3ff7c36bef372b9",
+			"branch": "master",
+			"path": "/pbkdf2",
+			"notests": true
+		}
+	]
+}
